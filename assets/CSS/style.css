@@ -304,19 +304,16 @@ header {
 }
 
 .videoBajada {
-    height: 600px;
-    width: 1000;
     display: block;
     position: relative;
     background-position: center center;
     background-size: cover;
     cursor: pointer;
-    background-image: url(assets/IMGS/maxresdefault.jpg);
 }
 
-#faker {
-    height: 400px;
-    width: 1000;
+.faker {
+    height: 100%;
+    width: 100%;
 }
 
 .contenedor {
@@ -349,10 +346,6 @@ main {
 }
 
 .video {
-    max-height: 95%;
-    height: auto;
-    width: 95%;
-    padding-top: 49.25%;
     display: grid;
     position: relative;
     background-size: cover;
@@ -379,64 +372,14 @@ main {
     color: #f1f1f1;
 }
 
-#derecha1 {
-    background-image: url(assets/IMGS/imgArticulo1.jpg);
-}
-
-#derecha2 {
-    background-image: url(assets/IMGS/imgArticulo2.jpg);
-}
-
-#derecha3 {
-    background-image: url(assets/IMGS/imgArticulo3.jpg);
-}
-
-#derecha4 {
-    background-image: url(assets/IMGS/imgArticulo4.jpg);
-}
-
-#derecha5 {
-    background-image: url(assets/IMGS/imgArticulo5.jpg);
-}
-
-#derecha6 {
-    background-image: url(assets/IMGS/imgArticulo6.jpg);
-}
-
-#derecha7 {
-    background-image: url(assets/IMGS/imgArticulo7.jpg);
+.imagenP{
+    max-height: 95%;
+    height: auto;
+    width: 95%;
 }
 
 .articulosIzquierda{
     padding-bottom: 34px;
-}
-
-#izquierda1 {
-    background-image: url(/assets/IMGS/imgArticulo8.jpg);
-}
-
-#izquierda2 {
-    background-image: url(assets/IMGS/imgArticulo9.jpg);
-}
-
-#izquierda3 {
-    background-image: url(assets/IMGS/imgArticulo10.jpg);
-}
-
-#izquierda4 {
-    background-image: url(assets/IMGS/imgArticulo11.jpg);
-}
-
-#izquierda5 {
-    background-image: url(assets/IMGS/imgArticulo12.jpg);
-}
-
-#izquierda6 {
-    background-image: url(assets/IMGS/imgArticulo13.jpg);
-}
-
-#izquierda7 {
-    background-image: url(assets/IMGS/imgArticulo14.jpg);
 }
 
 aside {
