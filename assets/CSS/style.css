@@ -309,6 +309,7 @@ header {
     background-position: center center;
     background-size: cover;
     cursor: pointer;
+    background-color: #0f1519;
 }
 
 .faker {
